@@ -35,7 +35,7 @@ Constants for disease
 
 class Screen:
 """
-Constants for Screen
+Screen Constants
 """
     WIDTH = 680
     HEIGHT = 480
